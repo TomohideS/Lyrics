@@ -1,18 +1,50 @@
----
-layout: page
-title: Publications
-share-title: Tomohide R. Sato - Publications
----
+##第一部
+Music for a While
+<br>
+H. パーセルは、バロック時代のイングランドを代表する作曲家であり、イタリアやフランスの要素を取り入れつつ、独自の世界観を築いた。
+「つかの間の音楽」は、戯曲『オイディプス王』の劇中歌である。
+<br>
+歌詞<br>
+つかの間の音楽が、あらゆる心の悩みを取り除いてくれるでしょう。<br>
+自分はどのようにして人の苦痛を取り除いたのかと不思議に思いつつ、<br>
+満足することを恥として。<br>
+<br>
+復讐の女神アレクトが、死者を永遠の戒めから解放するときまで、<br>
+彼女の頭から蛇が落ち、彼女の手から鞭が落ちるときまで。<br>
+<br>
+ヨハネ受難曲No.9 Ich folge dir gleichfalls
+<br>
 
-<ins>[Google Scholar](https://scholar.google.co.jp/citations?user=fdt5J1EAAAAJ&hl=ja&oi=ao)</ins><br>
-<ins>[ORCID](https://orcid.org/0000-0002-4536-548X)</ins><br>
-<ins>[ResearchGate](https://www.researchgate.net/profile/Tomohide-Sato?ev=hdr_xprf)</ins><br>
-<ins>[GitHub](https://github.com/TomoRS-Med/Na_paper)</ins><br>
+野ばら
+<br>
 
-## Published
-**Sato TR<sup></sup>**, Ode KL<sup></sup>, Kinoshita FL<sup></sup>, Ueda HR<sup>&dagger;</sup>.
-<ins>A design principle for neuronal firing with up-down oscillation through Na+ dynamics. </ins>
-***iScience*** (2025). 
-<ins>[Link](https://www.sciencedirect.com/science/article/pii/S2589004222001432)</ins> / <ins>[Press Release (Japanese)](https://www.u-tokyo.ac.jp/content/400255946.pdf)</ins> / <ins>[Code](https://github.com/TomoRS-Med/Na_paper)</ins>
+メロディのように
+<br>
 
-&dagger;: correspondence
+献呈
+<br>
+R. シュトラウス（1864-1949）は、後期ロマン派を代表するドイツの作曲家で、ワーグナーとリストの後継者とも言われる。「献呈」は、ギルムの詩集〈最後の葉〉に基づく「8つの歌曲」第1曲で、シュトラウスの歌曲の中でも最も広く愛される名作である。<br>
+歌詞<br>
+そう、あなたは知っている、貴き魂よ。あなたから遠く離れ、私が苦しんでいることを。<br>
+愛は人の心を病ませるのだ。私の感謝を受けてください。<br>
+<br>
+かつて私は自由に酔いしれて、アメジストの盃を高く掲げた。<br>
+そしてあなたはその杯を祝福してくれた。私の感謝を受けてください。<br>
+<br>
+あなたは杯に潜む悪きものを払ってくれた。こうして私は、生まれ変わったように、<br>
+清らかに、清らかにあなたの胸に沈んだ。私の感謝を受けてください。<br>
+<br>
+<br>
+##第ニ部
+マリンコニーア
+<br>
+
+すみれ
+<br>
+
+「トスカ」より 歌に生き、恋に生き（Vissi d'arte）
+<br>
+
+「ジャンニ・スキッキ」より 私のお父さん（O mio babbino caro）
+<br>
+
