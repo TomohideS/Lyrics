@@ -7,7 +7,7 @@ H. パーセル （1659-1695）は、バロック時代のイングランドを�
 「つかの間の音楽」は、戯曲『オイディプス王』の劇中歌である。
 
 <br><br>
-<Lyrics></Lyrics><br>
+<英語歌詞></英語歌詞><br>
 <i>Music for a while,<br>
 Shall all your cares beguile:<br>
 Wond'ring how your pains were eas'd<br>
