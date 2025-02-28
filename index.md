@@ -1,4 +1,4 @@
-<h1>第一部</h1>
+<h1><span style="color: blue;">第一部</span>span></span></h1>
 <h2>Henry Purcell / Music for a while</h2>
 <h2>H. パーセル 「つかの間の音楽」</h2>
 <br>
@@ -55,7 +55,7 @@ R. シュトラウス（1864-1949）は、後期ロマン派を代表するド�
 <br>
 <br>
 
-<h1>第ニ部</h1>
+<h1><span style="color: blue;">第ニ部</span></h1>
 
 <h2>Vincenzo Bellini / Malinconia, ninfa gentile</h2>
 <h2>V. ベッリーニ 「マリンコニーア」</h2>
