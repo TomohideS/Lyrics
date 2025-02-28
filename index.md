@@ -1,4 +1,4 @@
-<h1><span style="color: blue;">第一部</span>span></span></h1>
+<h1><span style="color: blue;">第一部</span></h1>
 <h2>Henry Purcell / Music for a while</h2>
 <h2>H. パーセル 「つかの間の音楽」</h2>
 <br>
