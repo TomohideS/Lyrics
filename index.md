@@ -5,7 +5,7 @@
 H. パーセル （1659-1695）は、バロック時代のイングランドを代表する作曲家であり、イタリアやフランスの要素を取り入れつつ、独自の世界観を築いた。<br>
 「つかの間の音楽」は、戯曲『オイディプス王』の劇中歌である。
 <br><br>
-<英語歌詞><br>
+~英語歌詞~<br>
 <i>Music for a while,<br>
 Shall all your cares beguile:<br>
 Wond'ring how your pains were eas'd<br>
@@ -16,7 +16,7 @@ Till Alecto free the dead<br>
 Till the snakes drop from her head, <br>
 And the whip from out her hands. </i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>つかの間の音楽が、あらゆる心の悩みを取り除いてくれるでしょう。<br>
 自分はどのようにして人の苦痛を取り除いたのかと不思議に思いつつ、<br>
 満足することを恥として。<br>
@@ -38,7 +38,7 @@ Befördre den Lauf<br>
 Und höre nicht auf,<br>
 Selbst an mir zu ziehen, zu schieben, zu bitten!</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>私もまた喜びの足取りであなたに従います<br>
 そして、あなたから離れることはありません、<br>
 わが命、わが光よ。<br>
@@ -74,7 +74,7 @@ Mußt es eben leiden.<br>
 Röslein, Röslein, Röslein rot,<br>
 Röslein auf der Heiden.</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>ある子どもが小さなバラの花を見つけた<br>
 荒れ野に咲くバラを<br>
 それは若々しく、朝のように美しかったので<br>
@@ -119,7 +119,7 @@ Verborgen wohl ein Duft,<br>
 Den mild aus stillem Keime<br>
 Ein feuchtes Auge ruft.</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>それはメロディーのように<br>
 ふとわたしの心をよぎる<br>
 春の花のように咲き<br>
@@ -151,7 +151,7 @@ Bis ich, was ich nie gewesen,<br>
 Heilig, heilig an's Herz dir sank,<br>
 Habe Dank!</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>そう、あなたは知っている、貴き魂よ。あなたから遠く離れ、私が苦しんでいることを。<br>
 愛は人の心を病ませるのだ。私の感謝を受けてください。<br>
 <br>
@@ -178,7 +178,7 @@ m'udiro alfine, pago io vivrò,<br>
 né mai quel fonte co' desir miei,<br>
 né mai quel monte trapasserò.</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>哀愁よ、優しい妖精よ<br>
 私は私の命をあなたにささげます。<br>
 あなたの喜びを全く相手にしない人は、<br>
@@ -201,7 +201,7 @@ mezzo ascose fra le foglie<br>
 e sgridate le mie voglie<br>
 che son troppo ambiziose!</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>露に濡れて香る<br>
 可憐なスミレたち<br>
 お前たちは恥ずかしがりながら<br>
@@ -234,7 +234,7 @@ Nell'ora del dolore<br>
 perché, perché Signore,<br>
 perché me ne rimuneri così?</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>私は歌に生き、恋に生き、<br>
 生あるものに悪いことなど決してしてきませんでした...！<br>
 人知れず手を差し伸べ、<br>
@@ -271,7 +271,7 @@ Mi struggo e mi tormento!<br>
 O Dio, vorrei morir!<br>
 Babbo, pieta, pieta!</i><br>
 <br>
-<歌詞><br>
+~日本語歌詞~<br>
 <i>ねえ、私の優しいお父様、<br>
 私が好きなあの人は美男子なの。<br>
 私はポルタ・ロッサへ行って<br>
