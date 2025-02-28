@@ -14,7 +14,6 @@ Till Alecto free the dead<br>
 From their eternal bands,  <br>
 Till Alecto free the dead<br>
 Till the snakes drop from her head, <br>
-<p>これは <span style="color: blue;">青色の文字</span> です。</p>
 And the whip from out her hands. </i><br>
 <br>
 <歌詞><br>
