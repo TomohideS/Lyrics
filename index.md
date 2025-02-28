@@ -25,9 +25,8 @@ And the whip from out her hands. </i><br>
 彼女の頭から蛇が落ち、彼女の手から鞭が落ちるときまで。</i><br>
 <br>
 
-<h1># Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls</h1><br>
-## J. S. バッハ 「ヨハネ受難曲」より No.9 「私もまた喜びの足取りであなたについていきます」
-<br>
+<h2>Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls</h2><br>
+<h2>J. S. バッハ 「ヨハネ受難曲」より No.9 「私もまた喜びの足取りであなたについていきます」</h2><br>
 J. S. バッハ（1685-1750）は、バロック音楽の巨匠であり、西洋音楽の礎を築いた作曲家の一人である。<br>
 「私もまた喜びの足取りであなたについていきます」は、「ヨハネ受難曲」第9曲にあたり、信仰の喜びを軽やかに歌うアリアである。<br>
 
