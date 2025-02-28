@@ -164,18 +164,122 @@ Habe Dank!</i><br>
 <h1><span style="color: blue;">第ニ部</span></h1>
 
 <h2>Vincenzo Bellini / Malinconia, ninfa gentile</h2>
-<h2>V. ベッリーニ 「マリンコニーア」</h2>
+<h2>V. ベッリーニ 「マリンコニーア」</h2><br>
+V. ベッリーニ（1801-1835）は、イタリアの作曲家で、声の美しさを追求するベルカント・オペラで知られる。<br>
+「マリンコニーア」は歌曲集「6つのアリエッタ」の第1曲で、ピンデモンテの詩に基づく。題名のマリンコニーアとはメランコリー、すなわち憂鬱・哀愁のことである。
+<br><br>
+<イタリア語歌詞><br>
+<i>Malinconia, Ninfa gentile,<br>
+la vita mia consacro a te;<br>
+i tuoi piaceri chi tiene a vile,<br>
+ai piacer veri nato non è.<br>
+Fonti e colline chiesi agli Dei;<br>
+m'udiro alfine, pago io vivrò,<br>
+né mai quel fonte co' desir miei,<br>
+né mai quel monte trapasserò.</i><br>
 <br>
+<歌詞><br>
+<i>哀愁よ、優しい妖精よ<br>
+私は私の命をあなたにささげます。<br>
+あなたの喜びを全く相手にしない人は、<br>
+本当の喜びを感じるようには生まれていない。<br>
+私は神々に泉と丘を求めた、<br>
+願いはついに聞き入れ、私は満足して生きる、<br>
+私の望みがあの泉と<br>
+あの山を越えることは決してないだろう。</i><br>
 
 <h2>Alessandro Scarlatti / Le violette</h2>
-<h2>A. スカルラッティ 「すみれ」</h2>
+<h2>A. スカルラッティ 「すみれ」</h2><br>
+A. スカルラッティ（1660-1725）は、イタリアのナポリ楽派を代表する作曲家であり、バロック・オペラの発展にも寄与した。<br>
+「すみれ」は、オペラ「ピッロとデメートリオ」のマーリオのアリアである。
+<br><br>
+<イタリア語歌詞><br>
+<i>Rugiadose, odorose<br>
+violette graziose,<br>
+voi vi state vergognose,<br>
+mezzo ascose fra le foglie<br>
+e sgridate le mie voglie<br>
+che son troppo ambiziose!</i><br>
 <br>
+<歌詞><br>
+<i>露に濡れて香る<br>
+可憐なスミレたち<br>
+お前たちは恥ずかしがりながら<br>
+葉陰に半ば隠れて<br>
+私の欲求を咎めている<br>
+あまりにも野心的な欲求を</i><br>
 
 <h2>Giacomo Puccini / Vissi d’arte</h2>
-<h2>G. プッチーニ 「歌に生き、恋に生き」</h2>
+<h2>G. プッチーニ 「歌に生き、恋に生き」</h2><br>
+G. プッチーニ（1858-1924）は、リアリズムを取り入れたイタリア・オペラの作曲家であり、「トスカ」「蝶々夫人」「ラ・ボエーム」などの名作を残した。<br>
+「歌に生き、恋に生き」は、オペラ「トスカ」の中で主人公トスカが神に祈りを捧げるアリアである。
+<br><br>
+<イタリア語歌詞><br>
+<i>Vissi d'arte, vissi d'amore,<br>
+non feci mai male ad anima viva!...<br>
+Con man furtiva<br>
+quante miserie conobbi, aiutai...<br>
+Sempre con fe' sincera,<br>
+la mia preghiera<br>
+ai santi tabernacoli salì.<br>
+Sempre con fe' sincera<br>
+diedi fiori agli altar.<br>
+Nell'ora del dolore<br>
+perché, perché Signore,<br>
+perché me ne rimuneri così?<br>
+Diedi gioielli della Madonna al manto,<br>
+e diedi il canto agli astri, al ciel,<br>
+che ne ridean più belli.<br>
+Nell'ora del dolore<br>
+perché, perché Signore,<br>
+perché me ne rimuneri così?</i><br>
 <br>
+<歌詞><br>
+<i>私は歌に生き、恋に生き、<br>
+生あるものに悪いことなど決してしてきませんでした...！<br>
+人知れず手を差し伸べ、<br>
+多くの哀れな人を助けてきました...<br>
+いつも誠実な信仰心を持ち、<br>
+私の祈りは<br>
+聖人たちに向けて昇っていきました。<br>
+いつも誠実な信仰心で<br>
+私は祭壇に花を捧げてきました。<br>
+この苦悩の時に<br>
+なぜ、主よ、なぜあなたは<br>
+私にこのような報いをお与えになるのですか?<br>
+聖母様のマントに宝石を捧げ<br>
+星々に、空に、歌を捧げました、<br>
+するとそれらは一層美しく微笑んでくれました。<br>
+この苦悩の時に<br>
+なぜ、主よ、なぜあなたは<br>
+私にこのような報いをお与えになるのですか?</i><br>
 
 <h2>Giacomo Puccini / O mio babbino caro</h2>
-<h2>G. プッチーニ 「私のお父さん」</h2>
+<h2>G. プッチーニ 「私のお父さん」</h2><br>
+「私のお父さん」は、オペラ『ジャンニ・スキッキ』のアリアで、娘ラウレッタが父に結婚の許しを請う場面で歌われる。プッチーニのアリアの中でも特に広く親しまれている。
+<br><br>
+<イタリア語歌詞><br>
+<i>O mio babbino caro,<br>
+mi piace, è bello.<br>
+Vo'andare in Porta Rossa<br>
+a comperar I'anello!<br>
+Si, si, ci voglio andare!<br>
+E se l'amassi indarno.<br>
+andrei sul Ponte Vecchio,<br>
+ma per buttarmi in Arno!<br>
+Mi struggo e mi tormento!<br>
+O Dio, vorrei morir!<br>
+Babbo, pieta, pieta!</i><br>
 <br>
-
+<歌詞><br>
+<i>ねえ、私の優しいお父様、<br>
+私が好きなあの人は美男子なの。<br>
+私はポルタ・ロッサへ行って<br>
+指輪を買いたいの！<br>
+そう、そうなの、どうしても行きたいの！<br>
+もしこの恋が叶わないのなら、<br>
+私はヴェッキオ橋に行って<br>
+アルノ川に身を投げるわ！<br>
+私はもだえ苦しんでいるのです！<br>
+ああ、神様、死んでしまいたいくらいに！<br>
+お父様、どうかお願いです！</i><br>
