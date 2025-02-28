@@ -26,15 +26,22 @@ And the whip from out her hands. </i><br>
 <br>
 
 ## Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls
+## J. S. バッハ 「ヨハネ受難曲」より No.9 「私もまた喜びの足取りであなたについていきます」
+<br>
+J. S. バッハ（1685-1750）は、バロック音楽の巨匠であり、西洋音楽の礎を築いた作曲家の一人である。<br>
+「私もまた喜びの足取りであなたについていきます」は、「ヨハネ受難曲」第9曲にあたり、信仰の喜びを軽やかに歌うアリアである。<br>
+
+
+## Franz Schubert / Heidenröslein
+## F. シューベルト 「野ばら」
 <br>
 
-## 野ばら: シューベルト作曲
+## Johannes Brahms / Wie Melodien zieht es mir
+##  J. ブラームス  「メロディのように」
 <br>
 
-## メロディのように: ブラームス作曲
-<br>
-
-## 献呈: R. シュトラウス作曲
+## Richard Georg Strauss / Zueignung
+## R. シュトラウス 「献呈」
 <br>
 R. シュトラウス（1864-1949）は、後期ロマン派を代表するドイツの作曲家で、ワーグナーとリストの後継者とも言われる。「献呈」は、ギルムの詩集〈最後の葉〉に基づく「8つの歌曲」第1曲で、シュトラウスの歌曲の中でも最も広く愛される名作である。<br><br>
 <歌詞></歌詞><br>
@@ -51,15 +58,19 @@ R. シュトラウス（1864-1949）は、後期ロマン派を代表するド�
 
 # 第ニ部<br>
 
-## マリンコニーア: ベッリーニ作曲
+## Vincenzo Bellini / Malinconia, ninfa gentile
+##  V. ベッリーニ 「マリンコニーア」
 <br>
 
-## すみれ: スカルラッティ作曲
+## Alessandro Scarlatti / Le violette
+## A. スカルラッティ 「すみれ」
 <br>
 
-## 「トスカ」より 歌に生き、恋に生き（Vissi d'arte）: プッチーニ作曲
+## Giacomo Puccini / Vissi d’arte
+##  G. プッチーニ 「歌に生き、恋に生き」
 <br>
 
-## 「ジャンニ・スキッキ」より 私のお父さん（O mio babbino caro）: プッチーニ作曲
+## Giacomo Puccini / O mio babbino caro
+##  G. プッチーニ 「私のお父さん」
 <br>
 
