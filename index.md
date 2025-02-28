@@ -36,7 +36,7 @@ Und lasse dich nicht,<br>
 Mein Leben, mein Licht.<br>
 Befördre den Lauf<br>
 Und höre nicht auf,<br>
-Selbst an mir zu ziehen, zu schieben, zu bitten!</i>i>＜br＞
+Selbst an mir zu ziehen, zu schieben, zu bitten!</i>＜br＞
 <br>
 <歌詞><br>
 <i>私もまた喜びの足取りであなたに従います<br>
