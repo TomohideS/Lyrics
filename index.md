@@ -1,5 +1,5 @@
 <h1>第一部</h1>
-<h2>Henry Purcell / Music for a while</h2><br>
+<h2>Henry Purcell / Music for a while</h2>
 <h2>H. パーセル 「つかの間の音楽」</h2>
 <br>
 H. パーセル （1659-1695）は、バロック時代のイングランドを代表する作曲家であり、イタリアやフランスの要素を取り入れつつ、独自の世界観を築いた。<br>
