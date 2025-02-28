@@ -1,11 +1,10 @@
 # 第一部
 ## Henry Purcell / Music for a while
 ## H. パーセル 「つかの間の音楽」
-
 <br>
 H. パーセル （1659-1695）は、バロック時代のイングランドを代表する作曲家であり、イタリアやフランスの要素を取り入れつつ、独自の世界観を築いた。<br>
 「つかの間の音楽」は、戯曲『オイディプス王』の劇中歌である。
-<br>
+<br><br>
 <英語歌詞><br>
 <i>Music for a while,<br>
 Shall all your cares beguile:<br>
