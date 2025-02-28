@@ -30,7 +30,7 @@ And the whip from out her hands. </i><br>
 J. S. バッハ（1685-1750）は、バロック音楽の巨匠であり、西洋音楽の礎を築いた作曲家の一人である。<br>
 「私もまた喜びの足取りであなたについていきます」は、「ヨハネ受難曲」第9曲にあたり、信仰の喜びを軽やかに歌うアリアである。
 <br><br>
-<ドイツ語歌詞><br>
+~ドイツ語歌詞~<br>
 <i>Ich folge dir gleichfalls mit freudigen Schritten<br>
 Und lasse dich nicht,<br>
 Mein Leben, mein Licht.<br>
@@ -51,7 +51,7 @@ Selbst an mir zu ziehen, zu schieben, zu bitten!</i><br>
 F. シューベルト（1797-1828）はオーストリアの作曲家で、ウィーン古典派からロマン派への架け橋となった存在である。600曲を超える歌曲を残したことでも知られる。<br>
 「野ばら」は、ゲーテの詩に基づく美しい歌曲で、広く親しまれている。
 <br><br>
-<ドイツ語歌詞><br>
+~ドイツ語歌詞~<br>
 <i>Sah ein Knab' ein Röslein stehn,<br>
 Röslein auf der Heiden,<br>
 War so jung und morgenschön,<br>
@@ -105,7 +105,7 @@ Röslein auf der Heiden.</i><br>
 J. ブラームス（1833-1897）はドイツ・ロマン派を代表する作曲家で、豊かな抒情性を持つ作品で知られる。
 <br>「メロディのように」は、「5つの歌曲」Op.105 の第1曲で、グロートの詩に拠る。ブラームスの抒情的な歌曲の代表作である。
 <br><br>
-<ドイツ語歌詞><br>
+~ドイツ語歌詞~<br>
 <i>Wie Melodien zieht es<br>
 Mir leise durch den Sinn,<br>
 Wie Frühlingsblumen blüht es<br>
@@ -137,7 +137,7 @@ Ein feuchtes Auge ruft.</i><br>
 <h2>R. シュトラウス 「献呈」</h2>
 <br>
 R. シュトラウス（1864-1949）は、後期ロマン派を代表するドイツの作曲家で、ワーグナーとリストの後継者とも言われる。「献呈」は、ギルムの詩集〈最後の葉〉に基づく「8つの歌曲」第1曲で、シュトラウスの歌曲の中でも最も広く愛される名作である。<br><br>
-<ドイツ語歌詞><br>
+~ドイツ語歌詞~<br>
 <i>Ja, du weißt es, teure Seele,<br>
 Daß ich fern von dir mich quäle,<br>
 Liebe macht die Herzen krank, <br>
@@ -168,7 +168,7 @@ Habe Dank!</i><br>
 V. ベッリーニ（1801-1835）は、イタリアの作曲家で、声の美しさを追求するベルカント・オペラで知られる。<br>
 「マリンコニーア」は歌曲集「6つのアリエッタ」の第1曲で、ピンデモンテの詩に基づく。題名のマリンコニーアとはメランコリー、すなわち憂鬱・哀愁のことである。
 <br><br>
-<イタリア語歌詞><br>
+~イタリア語歌詞~<br>
 <i>Malinconia, Ninfa gentile,<br>
 la vita mia consacro a te;<br>
 i tuoi piaceri chi tiene a vile,<br>
@@ -193,7 +193,7 @@ né mai quel monte trapasserò.</i><br>
 A. スカルラッティ（1660-1725）は、イタリアのナポリ楽派を代表する作曲家であり、バロック・オペラの発展にも寄与した。<br>
 「すみれ」は、オペラ「ピッロとデメートリオ」のマーリオのアリアである。
 <br><br>
-<イタリア語歌詞><br>
+~イタリア語歌詞~<br>
 <i>Rugiadose, odorose<br>
 violette graziose,<br>
 voi vi state vergognose,<br>
@@ -214,7 +214,7 @@ che son troppo ambiziose!</i><br>
 G. プッチーニ（1858-1924）は、リアリズムを取り入れたイタリア・オペラの作曲家であり、「トスカ」「蝶々夫人」「ラ・ボエーム」などの名作を残した。<br>
 「歌に生き、恋に生き」は、オペラ「トスカ」の中で主人公トスカが神に祈りを捧げるアリアである。
 <br><br>
-<イタリア語歌詞><br>
+~イタリア語歌詞~<br>
 <i>Vissi d'arte, vissi d'amore,<br>
 non feci mai male ad anima viva!...<br>
 Con man furtiva<br>
@@ -258,7 +258,7 @@ perché me ne rimuneri così?</i><br>
 <h2>G. プッチーニ 「私のお父さん」</h2><br>
 「私のお父さん」は、オペラ『ジャンニ・スキッキ』のアリアで、娘ラウレッタが父に結婚の許しを請う場面で歌われる。プッチーニのアリアの中でも特に広く親しまれている。
 <br><br>
-<イタリア語歌詞><br>
+~イタリア語歌詞~<br>
 <i>O mio babbino caro,<br>
 mi piace, è bello.<br>
 Vo'andare in Porta Rossa<br>
