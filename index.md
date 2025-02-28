@@ -1,5 +1,5 @@
 # 第一部
-## Henry Purcell / Music for a while
+## Henry Purcell / Music for a while<br>
 ## H. パーセル 「つかの間の音楽」
 <br>
 H. パーセル （1659-1695）は、バロック時代のイングランドを代表する作曲家であり、イタリアやフランスの要素を取り入れつつ、独自の世界観を築いた。<br>
@@ -25,7 +25,7 @@ And the whip from out her hands. </i><br>
 彼女の頭から蛇が落ち、彼女の手から鞭が落ちるときまで。</i><br>
 <br>
 
-## Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls
+## Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls<br>
 ## J. S. バッハ 「ヨハネ受難曲」より No.9 「私もまた喜びの足取りであなたについていきます」
 <br>
 J. S. バッハ（1685-1750）は、バロック音楽の巨匠であり、西洋音楽の礎を築いた作曲家の一人である。<br>
