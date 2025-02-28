@@ -1,5 +1,5 @@
 # 第一部
-## Henry Purcell / Music for a while<br>
+## Henry Purcell / Music for a while
 ## H. パーセル 「つかの間の音楽」
 
 <br>
