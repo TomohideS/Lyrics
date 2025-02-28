@@ -47,18 +47,111 @@ Selbst an mir zu ziehen, zu schieben, zu bitten!</i><br>
 わたしを引き寄せ、背中を押し、招いてください！</i><br>
 
 <h2>Franz Schubert / Heidenröslein</h2>
-<h2>F. シューベルト 「野ばら」</h2>
+<h2>F. シューベルト 「野ばら」</h2><br>
+F. シューベルト（1797-1828）はオーストリアの作曲家で、ウィーン古典派からロマン派への架け橋となった存在である。600曲を超える歌曲を残したことでも知られる。<br>
+「野ばら」は、ゲーテの詩に基づく美しい歌曲で、広く親しまれている。
+<br><br>
+<ドイツ語歌詞><br>
+<i>Sah ein Knab' ein Röslein stehn,<br>
+Röslein auf der Heiden,<br>
+War so jung und morgenschön,<br>
+Lief er schnell, es nah zu sehn,<br>
+Sah's mit vielen Freuden.<br>
+Röslein, Röslein, Röslein rot,<br>
+Röslein auf der Heiden.<br>
+Knabe sprach: ich breche dich,<br>
+Röslein auf der Heiden,<br>
+Röslein sprach: ich steche dich,<br>
+Daß du ewig denkst an mich,<br>
+Und ich will's nicht leiden.<br>
+Röslein, Röslein, Röslein rot,<br>
+Röslein auf der Heiden.<br>
+Und der wilde Knabe brach's<br>
+Röslein auf der Heiden!<br>
+Röslein wehrte sich und stach,<br>
+Half ihm doch kein Weh und Ach,<br>
+Mußt es eben leiden.<br>
+Röslein, Röslein, Röslein rot,<br>
+Röslein auf der Heiden.</i><br>
 <br>
+<歌詞><br>
+<i>ある子どもが小さなバラの花を見つけた<br>
+荒れ野に咲くバラを<br>
+それは若々しく、朝のように美しかったので<br>
+彼は近くで見ようと急いで走り寄り<br>
+大喜びでそれを見た<br>
+バラよ、バラよ、赤いバラ<br>
+荒れ野に咲くバラよ<br>
+<br>
+子どもは言った、「君を折ってしまうぞ、<br>
+荒れ野に咲くバラよ！」<br>
+バラは言った、「そしたらあなたを刺すわよ、<br>
+永遠にわたしを忘れないように、<br>
+わたしは苦しむなんて嫌よ」<br>
+バラよ、バラよ、赤いバラ<br>
+荒れ野に咲くバラよ<br>
+<br>
+とうとう乱暴な子どもは折ってしまった<br>
+荒れ野に咲くバラを<br>
+バラは抵抗して彼を刺したのだが<br>
+嘆いても叫んでも役に立たず<br>
+されるがままに苦しむしかなかった<br>
+バラよ、バラよ、赤いバラ<br>
+荒れ野に咲くバラよ<br>
+わたしを引き寄せ、背中を押し、招いてください！</i><br>
 
 <h2>Johannes Brahms / Wie Melodien zieht es mir</h2>
-<h2>J. ブラームス  「メロディのように」</h2>
+<h2>J. ブラームス  「メロディのように」</h2><br>
+J. ブラームス（1833-1897）はドイツ・ロマン派を代表する作曲家で、豊かな抒情性を持つ作品で知られる。
+<br>「メロディのように」は、「5つの歌曲」Op.105 の第1曲で、グロートの詩に拠る。ブラームスの抒情的な歌曲の代表作である。
+<br><br>
+<ドイツ語歌詞><br>
+<i>Wie Melodien zieht es<br>
+Mir leise durch den Sinn,<br>
+Wie Frühlingsblumen blüht es<br>
+Und schwebt wie Duft dahin.<br>
+Doch kommt das Wort und faßt es<br>
+Und führt es vor das Aug',<br>
+Wie Nebelgrau erblaßt es<br>
+Und schwindet wie ein Hauch.<br>
+Und dennoch ruht im Reime<br>
+Verborgen wohl ein Duft,<br>
+Den mild aus stillem Keime<br>
+Ein feuchtes Auge ruft.</i><br>
 <br>
+<歌詞><br>
+<i>それはメロディーのように<br>
+ふとわたしの心をよぎる<br>
+春の花のように咲き<br>
+その香りのように漂う<br>
+ところが言葉が湧いてきてそれを捕まえ<br>
+目の前に引き出そうとすると<br>
+まるで灰色の霧のように色あせ<br>
+吐息のように消え去ってしまう<br>
+それでもなお、詩の中には<br>
+ほのかな香りが秘められている<br>
+それは沈黙の萌芽からそっと<br>
+涙に濡れた瞳が呼び寄せたものだ</i><br>
 
 <h2>Richard Georg Strauss / Zueignung</h2>
 <h2>R. シュトラウス 「献呈」</h2>
 <br>
 R. シュトラウス（1864-1949）は、後期ロマン派を代表するドイツの作曲家で、ワーグナーとリストの後継者とも言われる。「献呈」は、ギルムの詩集〈最後の葉〉に基づく「8つの歌曲」第1曲で、シュトラウスの歌曲の中でも最も広く愛される名作である。<br><br>
-<歌詞></歌詞><br>
+<ドイツ語歌詞><br>
+<i>Ja, du weißt es, teure Seele,<br>
+Daß ich fern von dir mich quäle,<br>
+Liebe macht die Herzen krank, <br>
+Habe Dank.<br>
+Einst hielt ich, der Freiheit Zecher,<br>
+Hoch den Amethysten-Becher,<br>
+Und du segnetest den Trank,<br>
+Habe Dank.<br>
+Und beschworst darin die Bösen,<br>
+Bis ich, was ich nie gewesen,<br>
+Heilig, heilig an's Herz dir sank,<br>
+Habe Dank!</i><br>
+<br>
+<歌詞><br>
 <i>そう、あなたは知っている、貴き魂よ。あなたから遠く離れ、私が苦しんでいることを。<br>
 愛は人の心を病ませるのだ。私の感謝を受けてください。<br>
 <br>
@@ -67,8 +160,6 @@ R. シュトラウス（1864-1949）は、後期ロマン派を代表するド�
 <br>
 あなたは杯に潜む悪きものを払ってくれた。こうして私は、生まれ変わったように、<br>
 清らかに、清らかにあなたの胸に沈んだ。私の感謝を受けてください。</i><br>
-<br>
-<br>
 
 <h1><span style="color: blue;">第ニ部</span></h1>
 
