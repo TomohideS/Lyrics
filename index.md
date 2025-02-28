@@ -31,16 +31,16 @@ J. S. バッハ（1685-1750）は、バロック音楽の巨匠であり、西�
 「私もまた喜びの足取りであなたについていきます」は、「ヨハネ受難曲」第9曲にあたり、信仰の喜びを軽やかに歌うアリアである。<br>
 
 
-## Franz Schubert / Heidenröslein
-## F. シューベルト 「野ばら」
+<h2>Franz Schubert / Heidenröslein</h2>
+<h2>F. シューベルト 「野ばら」</h2>
 <br>
 
-## Johannes Brahms / Wie Melodien zieht es mir
-##  J. ブラームス  「メロディのように」
+<h2>Johannes Brahms / Wie Melodien zieht es mir</h2>
+<h2>J. ブラームス  「メロディのように」</h2>
 <br>
 
-## Richard Georg Strauss / Zueignung
-## R. シュトラウス 「献呈」
+<h2>Richard Georg Strauss / Zueignung</h2>
+<h2>R. シュトラウス 「献呈」</h2>
 <br>
 R. シュトラウス（1864-1949）は、後期ロマン派を代表するドイツの作曲家で、ワーグナーとリストの後継者とも言われる。「献呈」は、ギルムの詩集〈最後の葉〉に基づく「8つの歌曲」第1曲で、シュトラウスの歌曲の中でも最も広く愛される名作である。<br><br>
 <歌詞></歌詞><br>
@@ -55,21 +55,21 @@ R. シュトラウス（1864-1949）は、後期ロマン派を代表するド�
 <br>
 <br>
 
-# 第ニ部<br>
+<h1>第ニ部</h1>
 
-## Vincenzo Bellini / Malinconia, ninfa gentile
-##  V. ベッリーニ 「マリンコニーア」
+<h2>Vincenzo Bellini / Malinconia, ninfa gentile</h2>
+<h2>V. ベッリーニ 「マリンコニーア」</h2>
 <br>
 
-## Alessandro Scarlatti / Le violette
-## A. スカルラッティ 「すみれ」
+<h2>Alessandro Scarlatti / Le violette</h2>
+<h2>A. スカルラッティ 「すみれ」</h2>
 <br>
 
-## Giacomo Puccini / Vissi d’arte
-##  G. プッチーニ 「歌に生き、恋に生き」
+<h2>Giacomo Puccini / Vissi d’arte</h2>
+<h2>G. プッチーニ 「歌に生き、恋に生き」</h2>
 <br>
 
-## Giacomo Puccini / O mio babbino caro
-##  G. プッチーニ 「私のお父さん」
+<h2>Giacomo Puccini / O mio babbino caro</h2>
+<h2>G. プッチーニ 「私のお父さん」</h2>
 <br>
 
