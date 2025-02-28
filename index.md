@@ -28,8 +28,23 @@ And the whip from out her hands. </i><br>
 <h2>Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls</h2>
 <h2>J. S. バッハ 「ヨハネ受難曲」より No.9 「私もまた喜びの足取りであなたについていきます」</h2><br>
 J. S. バッハ（1685-1750）は、バロック音楽の巨匠であり、西洋音楽の礎を築いた作曲家の一人である。<br>
-「私もまた喜びの足取りであなたについていきます」は、「ヨハネ受難曲」第9曲にあたり、信仰の喜びを軽やかに歌うアリアである。<br>
-
+「私もまた喜びの足取りであなたについていきます」は、「ヨハネ受難曲」第9曲にあたり、信仰の喜びを軽やかに歌うアリアである。
+<br><br>
+<ドイツ語歌詞><br>
+<i>Ich folge dir gleichfalls mit freudigen Schritten<br>
+Und lasse dich nicht,<br>
+Mein Leben, mein Licht.<br>
+Befördre den Lauf<br>
+Und höre nicht auf,<br>
+Selbst an mir zu ziehen, zu schieben, zu bitten!</i>i>＜br＞
+<br>
+<歌詞><br>
+<i>私もまた喜びの足取りであなたに従います<br>
+そして、あなたから離れることはありません、<br>
+わが命、わが光よ。<br>
+わたしが歩む道をお示しください<br>
+そして絶えることなく、<br>
+わたしを引き寄せ、背中を押し、招いてください！</i><br>
 
 <h2>Franz Schubert / Heidenröslein</h2>
 <h2>F. シューベルト 「野ばら」</h2>
