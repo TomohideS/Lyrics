@@ -7,7 +7,7 @@ H. パーセル （1659-1695）は、バロック時代のイングランドを�
 「つかの間の音楽」は、戯曲『オイディプス王』の劇中歌である。
 
 <br><br>
-<英語歌詞></英語歌詞><br>
+<英語歌詞><br>
 <i>Music for a while,<br>
 Shall all your cares beguile:<br>
 Wond'ring how your pains were eas'd<br>
@@ -18,7 +18,7 @@ Till Alecto free the dead<br>
 Till the snakes drop from her head, <br>
 And the whip from out her hands. </i><br>
 <br>
-<歌詞></歌詞><br>
+<歌詞><br>
 <i>つかの間の音楽が、あらゆる心の悩みを取り除いてくれるでしょう。<br>
 自分はどのようにして人の苦痛を取り除いたのかと不思議に思いつつ、<br>
 満足することを恥として。<br>
