@@ -25,7 +25,7 @@ And the whip from out her hands. </i><br>
 彼女の頭から蛇が落ち、彼女の手から鞭が落ちるときまで。</i><br>
 <br>
 
-## ヨハネ受難曲No.9 Ich folge dir gleichfalls: バッハ作曲
+## Johann Sebastian Bach / Johannes-Passion No.9 Ich folge dir gleichfalls
 <br>
 
 ## 野ばら: シューベルト作曲
