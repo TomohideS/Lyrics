@@ -9,7 +9,7 @@ H. パーセル （1659-1695）は、バロック時代のイングランドを�
 <i>Music for a while,<br>
 Shall all your cares beguile:<br>
 Wond'ring how your pains were eas'd<br>
-And disdaining to be pleas'd<br>
+And disdaining to be pleas'd<br><br>
 Till Alecto free the dead<br>
 From their eternal bands,  <br>
 Till Alecto free the dead<br>
@@ -58,14 +58,14 @@ War so jung und morgenschön,<br>
 Lief er schnell, es nah zu sehn,<br>
 Sah's mit vielen Freuden.<br>
 Röslein, Röslein, Röslein rot,<br>
-Röslein auf der Heiden.<br>
+Röslein auf der Heiden.<br><br>
 Knabe sprach: ich breche dich,<br>
 Röslein auf der Heiden,<br>
 Röslein sprach: ich steche dich,<br>
 Daß du ewig denkst an mich,<br>
 Und ich will's nicht leiden.<br>
 Röslein, Röslein, Röslein rot,<br>
-Röslein auf der Heiden.<br>
+Röslein auf der Heiden.<br><br>
 Und der wilde Knabe brach's<br>
 Röslein auf der Heiden!<br>
 Röslein wehrte sich und stach,<br>
@@ -109,11 +109,11 @@ J. ブラームス（1833-1897）はドイツ・ロマン派を代表する作�
 <i>Wie Melodien zieht es<br>
 Mir leise durch den Sinn,<br>
 Wie Frühlingsblumen blüht es<br>
-Und schwebt wie Duft dahin.<br>
+Und schwebt wie Duft dahin.<br><br>
 Doch kommt das Wort und faßt es<br>
 Und führt es vor das Aug',<br>
 Wie Nebelgrau erblaßt es<br>
-Und schwindet wie ein Hauch.<br>
+Und schwindet wie ein Hauch.<br><br>
 Und dennoch ruht im Reime<br>
 Verborgen wohl ein Duft,<br>
 Den mild aus stillem Keime<br>
@@ -123,11 +123,11 @@ Ein feuchtes Auge ruft.</i><br>
 <i>それはメロディーのように<br>
 ふとわたしの心をよぎる<br>
 春の花のように咲き<br>
-その香りのように漂う<br>
+その香りのように漂う<br><br>
 ところが言葉が湧いてきてそれを捕まえ<br>
 目の前に引き出そうとすると<br>
 まるで灰色の霧のように色あせ<br>
-吐息のように消え去ってしまう<br>
+吐息のように消え去ってしまう<br><br>
 それでもなお、詩の中には<br>
 ほのかな香りが秘められている<br>
 それは沈黙の萌芽からそっと<br>
@@ -141,11 +141,11 @@ R. シュトラウス（1864-1949）は、後期ロマン派を代表するド�
 <i>Ja, du weißt es, teure Seele,<br>
 Daß ich fern von dir mich quäle,<br>
 Liebe macht die Herzen krank, <br>
-Habe Dank.<br>
+Habe Dank.<br><br>
 Einst hielt ich, der Freiheit Zecher,<br>
 Hoch den Amethysten-Becher,<br>
 Und du segnetest den Trank,<br>
-Habe Dank.<br>
+Habe Dank.<br><br>
 Und beschworst darin die Bösen,<br>
 Bis ich, was ich nie gewesen,<br>
 Heilig, heilig an's Herz dir sank,<br>
@@ -172,7 +172,7 @@ V. ベッリーニ（1801-1835）は、イタリアの作曲家で、声の美�
 <i>Malinconia, Ninfa gentile,<br>
 la vita mia consacro a te;<br>
 i tuoi piaceri chi tiene a vile,<br>
-ai piacer veri nato non è.<br>
+ai piacer veri nato non è.<br><br>
 Fonti e colline chiesi agli Dei;<br>
 m'udiro alfine, pago io vivrò,<br>
 né mai quel fonte co' desir miei,<br>
@@ -182,7 +182,7 @@ né mai quel monte trapasserò.</i><br>
 <i>哀愁よ、優しい妖精よ<br>
 私は私の命をあなたにささげます。<br>
 あなたの喜びを全く相手にしない人は、<br>
-本当の喜びを感じるようには生まれていない。<br>
+本当の喜びを感じるようには生まれていない。<br><br>
 私は神々に泉と丘を求めた、<br>
 願いはついに聞き入れ、私は満足して生きる、<br>
 私の望みがあの泉と<br>
@@ -209,8 +209,8 @@ che son troppo ambiziose!</i><br>
 私の欲求を咎めている<br>
 あまりにも野心的な欲求を</i><br>
 
-<h2>Giacomo Puccini / Vissi d’arte</h2>
-<h2>G. プッチーニ 「歌に生き、恋に生き」</h2><br>
+<h2>Giacomo Puccini / Vissi d’arte, vissi d'amore</h2>
+<h2>G. プッチーニ  「トスカ」より「歌に生き、恋に生き」</h2><br>
 G. プッチーニ（1858-1924）は、リアリズムを取り入れたイタリア・オペラの作曲家であり、「トスカ」「蝶々夫人」「ラ・ボエーム」などの名作を残した。<br>
 「歌に生き、恋に生き」は、オペラ「トスカ」の中で主人公トスカが神に祈りを捧げるアリアである。
 <br><br>
@@ -218,18 +218,18 @@ G. プッチーニ（1858-1924）は、リアリズムを取り入れたイタ�
 <i>Vissi d'arte, vissi d'amore,<br>
 non feci mai male ad anima viva!...<br>
 Con man furtiva<br>
-quante miserie conobbi, aiutai...<br>
+quante miserie conobbi, aiutai...<br><br>
 Sempre con fe' sincera,<br>
 la mia preghiera<br>
 ai santi tabernacoli salì.<br>
 Sempre con fe' sincera<br>
-diedi fiori agli altar.<br>
+diedi fiori agli altar.<br><br>
 Nell'ora del dolore<br>
 perché, perché Signore,<br>
-perché me ne rimuneri così?<br>
+perché me ne rimuneri così?<br><br>
 Diedi gioielli della Madonna al manto,<br>
 e diedi il canto agli astri, al ciel,<br>
-che ne ridean più belli.<br>
+che ne ridean più belli.<br><br>
 Nell'ora del dolore<br>
 perché, perché Signore,<br>
 perché me ne rimuneri così?</i><br>
@@ -238,31 +238,31 @@ perché me ne rimuneri così?</i><br>
 <i>私は歌に生き、恋に生き、<br>
 生あるものに悪いことなど決してしてきませんでした...！<br>
 人知れず手を差し伸べ、<br>
-多くの哀れな人を助けてきました...<br>
+多くの哀れな人を助けてきました...<br><br>
 いつも誠実な信仰心を持ち、<br>
 私の祈りは<br>
 聖人たちに向けて昇っていきました。<br>
 いつも誠実な信仰心で<br>
-私は祭壇に花を捧げてきました。<br>
+私は祭壇に花を捧げてきました。<br><br>
 この苦悩の時に<br>
 なぜ、主よ、なぜあなたは<br>
-私にこのような報いをお与えになるのですか?<br>
+私にこのような報いをお与えになるのですか?<br><br>
 聖母様のマントに宝石を捧げ<br>
 星々に、空に、歌を捧げました、<br>
-するとそれらは一層美しく微笑んでくれました。<br>
+するとそれらは一層美しく微笑んでくれました。<br><br>
 この苦悩の時に<br>
 なぜ、主よ、なぜあなたは<br>
 私にこのような報いをお与えになるのですか?</i><br>
 
 <h2>Giacomo Puccini / O mio babbino caro</h2>
-<h2>G. プッチーニ 「私のお父さん」</h2><br>
+<h2>G. プッチーニ  「ジャンニ・スキッキ」より  「私のお父さん」</h2><br>
 「私のお父さん」は、オペラ『ジャンニ・スキッキ』のアリアで、娘ラウレッタが父に結婚の許しを請う場面で歌われる。プッチーニのアリアの中でも特に広く親しまれている。
 <br><br>
 ~イタリア語歌詞~<br>
 <i>O mio babbino caro,<br>
 mi piace, è bello.<br>
 Vo'andare in Porta Rossa<br>
-a comperar I'anello!<br>
+a comperar I'anello!<br><br>
 Si, si, ci voglio andare!<br>
 E se l'amassi indarno.<br>
 andrei sul Ponte Vecchio,<br>
@@ -275,7 +275,7 @@ Babbo, pieta, pieta!</i><br>
 <i>ねえ、私の優しいお父様、<br>
 私が好きなあの人は美男子なの。<br>
 私はポルタ・ロッサへ行って<br>
-指輪を買いたいの！<br>
+指輪を買いたいの！<br><br>
 そう、そうなの、どうしても行きたいの！<br>
 もしこの恋が叶わないのなら、<br>
 私はヴェッキオ橋に行って<br>
